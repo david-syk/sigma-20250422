@@ -8,7 +8,7 @@ references:
     - https://github.com/httpvoid/writeups/blob/62d3751945289d088ccfdf4d0ffbf61598a2cd7d/Confluence-RCE.md
     - https://twitter.com/httpvoid0x2f/status/1532924261035384832
     - https://medium.com/geekculture/text4shell-exploit-walkthrough-ebc02a01f035
-author: frack113, Harjot Singh, "@cyb3rjy0t" (update)
+author: frack113, Harjot Singh (@cyb3rjy0t) (update)
 date: 2022-06-04
 modified: 2023-01-19
 tags:
